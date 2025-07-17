@@ -1,5 +1,5 @@
 # FOLLOW <a href="https:/instagram.com/vdotjo/">@VDOTJO</a> ON INSTAGRAAAAAAAAAM
-##### Sorry lol
+
 ## I'm currently working on... a <a href="https://www.theknowledgehouse.org/"> KKCF </a> internship.
 
 <!--
