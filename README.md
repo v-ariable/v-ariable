@@ -1,7 +1,11 @@
 # FOLLOW <a href="https:/instagram.com/vdotjo/">@VDOTJO</a> ON INSTAGRAAAAAAAAAM
 
 <h1 align="center">Hi 👋, I'm Joshua</h1>
-<h3 align="center">I'm a student in Newark, NJ. I aspire to create software that impacts the world positively... from the confines of my own home in my pajamas. I am currently 16 years old. Juice is better than soda. I have a lot of energy and I am always excited to learn new things. I am also a Software Tester with one year of commercial experience in Manual and Automation testing. Meticulous and detail-oriented professional with a unique combination of technical expertise in test plan and test strategy development, execution of test scripts, defects management, retest and regression testing, varying within small to large-scale projects.  I am experienced in both waterfall and agile methodologies, including Scrum and Kanban frameworks.  More so, I am very flexible, adaptable and able to acquire new skills within a short time scale, build and maintain excellent working relationships with colleagues, have a strong work ethic and passion for problem-solving. </h3>
+<h3 align="center">I'm a student in Newark, NJ. I aspire to create software that impacts the world positively... from the confines of my own home in my pajamas. I am currently 16 years old. Juice is better than soda. I have a lot of energy and I am always excited to learn new things. I am also a Software Tester with one year of commercial experience in Manual and Automation testing. </h3>
+  
+<h3> Meticulous and detail-oriented professional with a unique combination of technical expertise in test plan and test strategy development, execution of test scripts, defects management, retest and regression testing, varying within small to large-scale projects.  I am experienced in both waterfall and agile methodologies, including Scrum and Kanban frameworks.  </h3>
+
+<h3> More so, I am very flexible, adaptable and able to acquire new skills within a short time scale, build and maintain excellent working relationships with colleagues, have a strong work ethic and passion for problem-solving. </h3>
 
 ## - 🔭  I'm currently working on... a <a href="https://www.theknowledgehouse.org/"> KKCF </a> internship.
 
